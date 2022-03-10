@@ -1,0 +1,175 @@
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.csproj.AssemblyReference.cache
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.AssemblyInfoInputs.cache
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.AssemblyInfo.cs
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.csproj.CoreCompileInputs.cache
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AuthorsAngularTask.exe
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AuthorsAngularTask.deps.json
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AuthorsAngularTask.runtimeconfig.json
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AuthorsAngularTask.runtimeconfig.dev.json
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AuthorsAngularTask.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AuthorsAngularTask.pdb
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\staticwebassets\AuthorsAngularTask.StaticWebAssets.Manifest.cache
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\staticwebassets\AuthorsAngularTask.StaticWebAssets.xml
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorsAngularTask.styles.css
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.RazorTargetAssemblyInfo.cache
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.csproj.CopyComplete
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.dll
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.pdb
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.genruntimeconfig.cache
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Scrutor.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Study\BarkoTel\AuthorsAngularTask\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Study\BarkoTel\AuthorsAngularTask\obj\Debug\netcoreapp3.1\AuthorsAngularTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AuthorsAngularTask.exe
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AuthorsAngularTask.deps.json
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AuthorsAngularTask.runtimeconfig.json
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AuthorsAngularTask.runtimeconfig.dev.json
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AuthorsAngularTask.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AuthorsAngularTask.pdb
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.csproj.AssemblyReference.cache
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.AssemblyInfoInputs.cache
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.AssemblyInfo.cs
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.csproj.CoreCompileInputs.cache
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\staticwebassets\AuthorsAngularTask.StaticWebAssets.Manifest.cache
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\staticwebassets\AuthorsAngularTask.StaticWebAssets.xml
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorsAngularTask.styles.css
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.RazorTargetAssemblyInfo.cache
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.csproj.CopyComplete
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.pdb
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\obj\Debug\netcoreapp3.1\AuthorsAngularTask.genruntimeconfig.cache
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Works 4\BarkoTel\AuthorsAngularTaskApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
